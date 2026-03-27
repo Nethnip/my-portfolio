@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // EmailJS configuration
-    const PUBLIC_KEY = 'y7aIDeQq4NtSm8SmF';
-    const SERVICE_ID = 'service_8nwiamm';
-    const TEMPLATE_ID = 'template_6uqdr44';
+    const PUBLIC_KEY = 'nsWYuH1B1NIOMk9q-';
+    const SERVICE_ID = 'service_4njodmo';
+    const TEMPLATE_ID = 'template_ct8o225';
 
     // Initialize EmailJS
     try {

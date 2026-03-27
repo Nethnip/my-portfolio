@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <a href="https://www.instagram.com" class="social-link" target="_blank" title="Instagram">
                             <i class='bx bxl-instagram'></i>
                         </a>
-                        <a href="mailto:nethnipabasa30@gmail.com" class="social-link" title="Send Email">
+                        <a href="mailto:nethnipabasara30@gmail.com" class="social-link" title="Send Email">
                             <i class='bx bx-envelope'></i>
                         </a>
                     </div>
@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:nethnipabasa30@gmail.com" style="color: #ccc; text-decoration: none; display: flex; align-items: center;">
-                                <i class='bx bx-envelope'></i>nethnipabasa30@gmail.com
+                            <a href="mailto:nethnipabasara30@gmail.com" style="color: #ccc; text-decoration: none; display: flex; align-items: center;">
+                                <i class='bx bx-envelope'></i>nethnipabasara30@gmail.com
                             </a>
                         </li>
                         <li>
